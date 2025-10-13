@@ -200,6 +200,3 @@ For questions or support, please open an issue on GitHub.
 
 ---
 
-<div align="center">
-  Made with ❤️ by Your Name
-</div>
